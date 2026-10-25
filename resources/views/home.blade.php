@@ -13,10 +13,10 @@
 <section id="tentang">
     <h2>Tentang Saya</h2>
 
-    <p><strong>Nama:</strong> Nama Mahasiswa</p>
-    <p><strong>NIM:</strong> 12345678</p>
-    <p><strong>Program Studi:</strong> Teknik Informatika</p>
-    <p><strong>Universitas:</strong> Nama Universitas</p>
+    <p><strong>Nama:</strong> Muh. ikhsan</p>
+    <p><strong>NIM:</strong> 250210502015</p>
+    <p><strong>Program Studi:</strong> Teknik komputer</p>
+    <p><strong>Universitas:</strong> Universitas negeri makassar</p>
 </section>
 
 <hr>
@@ -24,7 +24,7 @@
 <section id="kontak">
     <h2>Kontak</h2>
 
-    <p>Email: mahasiswa@example.com</p>
+    <p>Email: muhi8797@gmail.com.com</p>
 </section>
 
 @endsection
